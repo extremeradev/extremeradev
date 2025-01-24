@@ -3,7 +3,7 @@
 Soy un desarrollador full-stack apasionado por la creación de aplicaciones interactivas. 
 
 ## ⚡ Tecnologías que utilizo:
-- JavaScript (React.js, Angular.js, Vue.js, jQuery, Backbone.js, Node.js)
+- :book: **JavaScript** (React.js, Angular.js, Vue.js, jQuery, Backbone.js, Node.js)
 - HTML, CSS (Tailwind CSS)
 - Java (Spring)
 
@@ -12,5 +12,4 @@ Soy un desarrollador full-stack apasionado por la creación de aplicaciones inte
 - [LinkedIn](https://www.linkedin.com/in/alejandro-l-6a410b247/)
 - [Gmail](extremera.dev@gmail.com)
 
-[JavaScript]
   

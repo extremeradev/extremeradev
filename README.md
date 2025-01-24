@@ -12,4 +12,5 @@ Soy un desarrollador full-stack apasionado por la creación de aplicaciones inte
 - [LinkedIn](https://www.linkedin.com/in/alejandro-l-6a410b247/)
 - [Gmail](extremera.dev@gmail.com)
 
+[JavaScript]
   

@@ -1,6 +1,6 @@
 # ¡Hola, soy Alejandro! 👋
 
-Soy un desarrollador full-stack apasionado por la creación de aplicaciones interactivas. 
+Soy un desarrollador full-stack en constante crecimiento y aprendizaje.
 
 ## ⚡ Tecnologías que utilizo:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
@@ -16,6 +16,8 @@ Soy un desarrollador full-stack apasionado por la creación de aplicaciones inte
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
 ## 📬 Contáctame:
 - [LinkedIn](https://www.linkedin.com/in/alejandro-l-6a410b247/)

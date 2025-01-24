@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola, soy Alejandro! 👋
 
-<!--
-**extremeradev/extremeradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador full-stack apasionado por la creación de aplicaciones interactivas. 
 
-Here are some ideas to get you started:
+## ⚡ Tecnologías que utilizo:
+- JavaScript (React.js, Angular.js, Vue.js, jQuery, Backbone.js, Node.js)
+- HTML, CSS (Tailwind CSS)
+- Java (Spring)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📬 Contáctame:
+- [LinkedIn](https://www.linkedin.com/in/alejandro-l-6a410b247/)
+- [Gmail](extremera.dev@gmail.com)
+
+  
